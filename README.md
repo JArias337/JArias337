@@ -1,4 +1,4 @@
-<h1>Hello, I'm Josh. I'm an inspiring <a href="https://linkedin.com/in/josh337">IT Professional.</h1>
+<h1>My name is Josh and I am an inspiring <a href="https://linkedin.com/in/josh337">IT Professional.</h1>
 
 <h2>Information Technology Projects:</h2>
   
